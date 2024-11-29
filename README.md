@@ -35,10 +35,10 @@ This project simulates a game where players send 1 ETH to play. The smart contra
 
 ---
 
-## Installation
+## Uploaded Files
 
-To run the project locally, follow these steps:
+1. **`Assessment.sol`**: The smart contract written in Solidity.
+2. **`deploy.js`**: Script to deploy the smart contract using Hardhat.
+3. **`index.js`**: Frontend interaction logic using ethers.js.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/decentralized-game.git
+
