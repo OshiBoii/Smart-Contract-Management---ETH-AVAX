@@ -8,7 +8,7 @@ This project is a simple decentralized game built on the Ethereum blockchain, wh
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Uploaded Files](#UploadedFiles)
+- [Uploaded_Files](#Uploaded_Files)
 
 ---
 
@@ -29,7 +29,7 @@ This project simulates a game where players send 1 ETH to play. The smart contra
 
 ---
 
-## Uploaded Files
+## Uploaded_Files
 
 1. **`Assessment.sol`**: The smart contract written in Solidity.
 2. **`deploy.js`**: Script to deploy the smart contract using Hardhat.
