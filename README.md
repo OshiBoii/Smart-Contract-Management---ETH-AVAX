@@ -8,13 +8,7 @@ This project is a simple decentralized game built on the Ethereum blockchain, wh
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Smart Contract](#smart-contract)
-- [Frontend](#frontend)
-- [Deployment](#deployment)
-- [Technologies Used](#technologies-used)
-- [License](#license)
+- [Uploaded Files](#UploadedFiles)
 
 ---
 
